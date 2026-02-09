@@ -5,6 +5,6 @@ Dareen AbuBakr Mohamed; Team Leader,
 Mennaallah Kamal Elemiri; Coordinator,
 Ola Abdelhameed Khattab; Reviewer/Presenter,
 Badr Eldeen reda Mohy; Designer/Creator,
-Mahmoud Hussien; Researcher.
+Mahmoud Mohamed Hussein; Researcher.
 Lecturer Name: Dr.Tamer Elmoghazy.
 Google Drive Link: https://drive.google.com/drive/folders/12knCxUJ2j0gvyDsAiRoKqf_xptj4z5Yy?usp=drive_link
