@@ -1,10 +1,14 @@
 # Swim-Zone
-Swim Zone is a specialized store for swimmers, offering essential swimwear and equipment for training and competitions. It provides high-quality products like swimsuits, goggles, caps, training tools, and accessories to support swimmers at every stage of their journey.
-Team Members:
-Dareen AbuBakr Mohamed; Team Leader,
-Mennaallah Kamal Elemiri; Coordinator,
-Ola Abdelhameed Khattab; Reviewer/Presenter,
-Badr Eldeen reda Mohy; Designer/Creator,
-Mahmoud Mohamed Hussein; Researcher.
-Lecturer Name: Dr.Tamer Elmoghazy.
-Google Drive Link: https://drive.google.com/drive/folders/12knCxUJ2j0gvyDsAiRoKqf_xptj4z5Yy?usp=drive_link
+- Swim Zone is a specialized store for swimmers, offering essential swimwear and equipment for training and competitions. It provides high-quality products like swimsuits, goggles, caps, training tools, and accessories to support swimmers at every stage of their journey.
+- Team Members:
+- Dareen AbuBakr Mohamed; Team Leader,
+- Mennaallah Kamal Elemiri; Coordinator,
+- Ola Abdelhameed Khattab; Reviewer/Presenter,
+- Badr Eldeen reda Mohy; Designer/Creator,
+- Mahmoud Mohamed Hussein; Researcher.
+- Lecturer Name: Dr.Tamer Elmoghazy.
+- Google Drive Link: https://drive.google.com/drive/folders/12knCxUJ2j0gvyDsAiRoKqf_xptj4z5Yy?usp=drive_link
+- Social Media Links:
+- Facebook: https://www.facebook.com/share/14bfdCu37cZ/?mibextid=wwXIfr
+- Instagram: https://www.instagram.com/swim_zone1?igsh=MWwwZTRtbTBubWEwaA==
+- TikTok: https://www.tiktok.com/@swim.zone7?_r=1&_t=ZS-96BhOJ9nP6K
