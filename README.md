@@ -8,7 +8,7 @@
 - Mahmoud Mohamed Hussein; Researcher.
 - Lecturer Name: Dr.Tamer Elmoghazy.
 - Google Drive Link: https://drive.google.com/drive/folders/12knCxUJ2j0gvyDsAiRoKqf_xptj4z5Yy?usp=drive_link
-- Social Media Links:
+- Project Social Media Links:
 - Facebook: https://www.facebook.com/share/14bfdCu37cZ/?mibextid=wwXIfr
 - Instagram: https://www.instagram.com/swim_zone1?igsh=MWwwZTRtbTBubWEwaA==
 - TikTok: https://www.tiktok.com/@swim.zone7?_r=1&_t=ZS-96BhOJ9nP6K
